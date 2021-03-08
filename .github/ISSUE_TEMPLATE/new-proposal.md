@@ -2,7 +2,7 @@
 name: New talk proposal
 about: Submit a talk proposal
 title: Proposal's title
-labels: talk proposal
+labels: proposal
 assignees: ''
 ---
 __author name__: 
